@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+# Ian Rickelman's First CS193 Homework
+- Learning new skills
+- Help with CS 180
+- Student led
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
